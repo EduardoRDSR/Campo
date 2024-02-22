@@ -13,6 +13,7 @@ const Field = styled.div`
   width: 100%;
   height: 100vh;
   background-color: #c3d825;
+  overflow: hidden;
 `;
 
 const SunflowerImage = styled.img`
